@@ -1,6 +1,6 @@
 const galleryData = {
   2025: [
-    // Agregá las de 2025 acá cuando las tengas
+    { full: "https://i.imgur.com/NvWRZo6.jpeg", thumb: "https://i.imgur.com/gQmIQQi.jpeg", title: "Gift for AshKeel 2025" },  
   ],
   2024: [
     { full: "https://i.imgur.com/HPokzap.jpeg", thumb: "users/sonrazz/2024/37.jpg", title: "2025 New year!" },
