@@ -1,5 +1,22 @@
 const galleryData = {
   2025: [
+    { full: "https://i.imgur.com/auEgzmY.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "Tails Big" },
+    { full: "https://i.imgur.com/bfK4e70.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "Heads" },
+    { full: "https://i.imgur.com/h6qr42E.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "Tails Small" },
+    { full: "https://i.imgur.com/PvoODzl.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "Final Chapter V1" },
+    { full: "https://i.imgur.com/B5bSK8U.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "Final Chapter V2" },
+    { full: "https://i.imgur.com/UwyicH8.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "Revelion" },
+    { full: "https://i.imgur.com/Hi0UcJW.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "In Presence of the One" },
+    { full: "https://i.imgur.com/NfUYvCx.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "Heaven Gates" },
+    { full: "https://i.imgur.com/pJV9B4u.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "Holy War" },
+    { full: "https://i.imgur.com/WnwBFF6.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "Sheep" },
+    { full: "https://i.imgur.com/qYarDkG.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "Mage" },
+    { full: "https://i.imgur.com/vQ0QsRN.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "Soldier" },
+    { full: "https://i.imgur.com/aljf3hD.jpeg", thumb: "https://i.imgur.com/ovm4tIC.jpeg", title: "Shark Girl" },
+    { full: "https://i.imgur.com/YyU61oI.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "Amai and Neru" },
+    { full: "https://i.imgur.com/tocGtcW.jpeg", thumb: "https://i.imgur.com/ggudJua.jpeg", title: "Pixel Azz" },
+    { full: "https://i.imgur.com/JUeRK6C.jpeg", thumb: "https://i.imgur.com/mDKlNAJ.jpeg", title: "Colab Friends" },
+    { full: "https://i.imgur.com/XTmBXYe.jpeg", thumb: "https://i.imgur.com/DJDv7aQ.jpeg", title: "Amalia" },
     { full: "https://i.imgur.com/NvWRZo6.jpeg", thumb: "https://i.imgur.com/gQmIQQi.jpeg", title: "Gift for AshKeel 2025" },  
   ],
   2024: [
