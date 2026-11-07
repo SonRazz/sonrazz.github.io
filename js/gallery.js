@@ -10,7 +10,7 @@ const galleryData = {
     { full: "https://i.imgur.com/NfUYvCx.jpeg", thumb: "https://i.imgur.com/daPo5nk.jpeg", title: "Heaven Gates" },
     { full: "https://i.imgur.com/pJV9B4u.jpeg", thumb: "https://i.imgur.com/7jqjMuo.jpeg", title: "Holy War" },
     { full: "https://i.imgur.com/WnwBFF6.jpeg", thumb: "https://i.imgur.com/0sLIlz8.jpeg", title: "Sheep" },
-    { full: "https://i.imgur.com/qYarDkG.jpeg", thumb: "https://i.imgur.com/NfUYvCx.jpeg", title: "Mage" },
+    { full: "https://i.imgur.com/qYarDkG.jpeg", thumb: "https://i.imgur.com/h0JDo0W.jpeg", title: "Mage" },
     { full: "https://i.imgur.com/vQ0QsRN.jpeg", thumb: "https://i.imgur.com/6QP6iOR.jpeg", title: "Soldier" },
     { full: "https://i.imgur.com/aljf3hD.jpeg", thumb: "https://i.imgur.com/ovm4tIC.jpeg", title: "Shark Girl" },
     { full: "https://i.imgur.com/YyU61oI.jpeg", thumb: "https://i.imgur.com/DA0Bhql.jpeg", title: "Amai and Neru" },
