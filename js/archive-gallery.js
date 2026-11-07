@@ -106,7 +106,7 @@ const archiveGalleryData = {
     { full: "https://i.imgur.com/R03F5dC.jpg", thumb: "users/sonrazz/2023/01.jpg", title: "Imo and Adi" },
     { full: "https://i.imgur.com/i5I9Oj4.jpg", thumb: "users/sonrazz/2023/13.jpg", title: "Imo & Adi Examples" },
     { full: "https://i.imgur.com/ObNtpKt.jpg", thumb: "users/sonrazz/2023/00.jpg", title: "Drawphile" }
-  ]
+  ],
   2020: [
     { full: "users/sonrazz/2020/56.jpg", thumb: "users/sonrazz/2020/crop/56.jpg", title: "Death Rage - Cover test" },
     { full: "users/sonrazz/2020/55.jpg", thumb: "users/sonrazz/2020/crop/55.jpg", title: "Death Rage - Concept 2" },
